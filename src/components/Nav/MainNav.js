@@ -13,7 +13,7 @@ function MainNav() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="/Pattern1">Pattern1</Nav.Link>
+            <Nav.Link href="/Factory">Factory Pattern</Nav.Link>
             <Nav.Link href="/Pattern2">Pattern2</Nav.Link>
             <Nav.Link href="/Pattern3">Pattern3</Nav.Link>
             <Nav.Link href="/Pattern4">Pattern4</Nav.Link>
